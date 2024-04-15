@@ -1,0 +1,82 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Nov 07 06:44:32 2023
+[*]
+[dumpfile] "C:\Users\Xiao\OneDrive\Programming\Doc_verilog\exp_UART\UART_RX_tb.vcd"
+[dumpfile_mtime] "Tue Nov 07 06:43:26 2023"
+[dumpfile_size] 228456
+[savefile] "C:\Users\Xiao\OneDrive\Programming\Doc_verilog\exp_UART\UART_RX_tb.gtkw"
+[timestart] 0
+[size] 1755 1026
+[pos] -217 -217
+*-23.264954 27060000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] UART_RX_tb.
+[sst_width] 241
+[signals_width] 283
+[sst_expanded] 1
+[sst_vpaned_height] 640
+@28
+UART_RX_tb.clk
+UART_RX_tb.rst_n
+[color] 1
+UART_RX_tb.uart_rx
+UART_RX_tb.uut.sync_uart_rx
+UART_RX_tb.rx_done
+@c00028
+UART_RX_tb.uut.receive_start[7:0]
+@28
+(0)UART_RX_tb.uut.receive_start[7:0]
+(1)UART_RX_tb.uut.receive_start[7:0]
+(2)UART_RX_tb.uut.receive_start[7:0]
+(3)UART_RX_tb.uut.receive_start[7:0]
+(4)UART_RX_tb.uut.receive_start[7:0]
+(5)UART_RX_tb.uut.receive_start[7:0]
+(6)UART_RX_tb.uut.receive_start[7:0]
+(7)UART_RX_tb.uut.receive_start[7:0]
+@1401200
+-group_end
+@28
+UART_RX_tb.uut.baud_clk_cnt_valid
+@24
+UART_RX_tb.uut.baud_clk_cnt[15:0]
+@28
+UART_RX_tb.uut.baud_center_pulse
+@c00028
+UART_RX_tb.uut.inter_data_receive[7:0]
+@28
+(0)UART_RX_tb.uut.inter_data_receive[7:0]
+(1)UART_RX_tb.uut.inter_data_receive[7:0]
+(2)UART_RX_tb.uut.inter_data_receive[7:0]
+(3)UART_RX_tb.uut.inter_data_receive[7:0]
+(4)UART_RX_tb.uut.inter_data_receive[7:0]
+(5)UART_RX_tb.uut.inter_data_receive[7:0]
+(6)UART_RX_tb.uut.inter_data_receive[7:0]
+(7)UART_RX_tb.uut.inter_data_receive[7:0]
+@1401200
+-group_end
+@c00029
+UART_RX_tb.o_rx_data[7:0]
+@29
+(0)UART_RX_tb.o_rx_data[7:0]
+(1)UART_RX_tb.o_rx_data[7:0]
+(2)UART_RX_tb.o_rx_data[7:0]
+(3)UART_RX_tb.o_rx_data[7:0]
+(4)UART_RX_tb.o_rx_data[7:0]
+(5)UART_RX_tb.o_rx_data[7:0]
+(6)UART_RX_tb.o_rx_data[7:0]
+(7)UART_RX_tb.o_rx_data[7:0]
+@1401201
+-group_end
+@22
+[color] 2
+UART_RX_tb.uut.receive_bits_cnt[3:0]
+@28
+UART_RX_tb.uut.curr_state[3:0]
+UART_RX_tb.uut.rx_done
+@420
+[color] 3
+UART_RX_tb.uut.PARITY_ON
+@28
+UART_RX_tb.parity_check
+[pattern_trace] 1
+[pattern_trace] 0

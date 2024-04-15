@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Nov 09 15:32:40 2023
+[*]
+[dumpfile] "C:\Users\Xiao\OneDrive\Programming\Doc_verilog\exp_UART\UART_top_tb.vcd"
+[dumpfile_mtime] "Thu Nov 09 15:17:36 2023"
+[dumpfile_size] 564110
+[savefile] "C:\Users\Xiao\OneDrive\Programming\Doc_verilog\exp_UART\UART_top_tb.gtkw"
+[timestart] 0
+[size] 1920 1009
+[pos] -87 -87
+*-24.742670 213800000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] UART_top_tb.
+[treeopen] UART_top_tb.uut.
+[sst_width] 228
+[signals_width] 259
+[sst_expanded] 1
+[sst_vpaned_height] 297
+@28
+UART_top_tb.clk
+UART_top_tb.rst_n
+UART_top_tb.in_valid
+UART_top_tb.in_data[7:0]
+[color] 5
+UART_top_tb.uut.tx.curr_state[3:0]
+UART_top_tb.tx_done
+[color] 4
+UART_top_tb.uut.rx.curr_state[3:0]
+UART_top_tb.rx_done
+@29
+UART_top_tb.uut.tx.baud_center_pulse
+@28
+[color] 2
+UART_top_tb.uut.uart_tx_rx
+@22
+[color] 5
+UART_top_tb.uut.tx.transmit_bits_cnt[3:0]
+[color] 4
+UART_top_tb.uut.rx.receive_bits_cnt[3:0]
+@28
+[color] 1
+UART_top_tb.uut.tx.inter_data_transmit[7:0]
+[color] 3
+UART_top_tb.out_data[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
